@@ -1,2 +1,2 @@
 Guess The Number Game
-Working site: matej-guess-the-number.netlify.app
+[Working site: ](https://matej-guess-the-number.netlify.app/)
